@@ -1,3 +1,4 @@
+
 # Node modules
 /node_modules
 
@@ -20,3 +21,5 @@
 /coverage
 
 /.env
+
+/Screenshots
